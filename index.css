@@ -1,0 +1,20 @@
+.outer{
+    background-color: lightblue;
+}
+.header{
+    background-color: lightgreen;
+}
+.sidebar{
+    background-color: hotpink;
+}
+.content{
+    background-color:tomato;
+    }
+
+
+.footer{
+    background-color:lightgreen;
+}
+.content div{
+    background-color:green;
+}
